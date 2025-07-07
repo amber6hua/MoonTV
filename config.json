@@ -76,6 +76,18 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "jkun": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "jkun资源"
+    },
+    "hsck": {
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "name": "黄色仓库"
+    },
+    "ytzy": {
+      "api": "https://apiyutu.com/api.php/providedao/vod",
+      "name": "玉兔资源"
     }
   }
 }
